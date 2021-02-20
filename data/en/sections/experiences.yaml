@@ -1,0 +1,58 @@
+# section information
+section:
+  name: Experiences
+  id: experiences
+  enable: true
+  weight: 3
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true 
+
+# Your experiences
+experiences:
+- company:
+    name: Duke University .
+    url: "https://nicholas.duke.edu/"
+    location: Durham, North Carolina 
+    # company overview
+    overview: Agent based Bayesian modelling for bushmeat hunting
+  positions:
+  - designation: Research Assistant
+    start: Aug 2020
+    # don't provide end date if you are currently working there. It will be replaced by "Present"
+    # end: Dec 2020
+    # give some points about what was your responsibilities at the company.
+    responsibilities:
+    - Assisted with Bayesian modelling
+    - Developing prototype ABM
+    - Empowering rural communities 
+
+- company:
+    name: Gaea Global Technologies.
+    url: "https://gaeaglobal.com/"
+    location: Santa Clara, Califorina
+    overview: A consulting firm specializing in supply chain managment
+  positions:
+  - designation: Data Scientist Intern
+    start: May 2020
+    end: Aug 2020
+    responsibilities:
+    - created data science product to reduce picking costs
+    - used ARIMA and ETS to forecast customers sales
+    - created algorithm to determine optimal unit of measure for shelving
+
+- company:
+    name: Coats Group.
+    url: "https://www.coats.com/"
+    location: Charlotte, North Carolina 
+    overview: The world's largest industrial thread manufacturer 
+  positions:
+  - designation: Data Scientist
+    start: Jan 2017
+    end: Aug 2019
+    responsibilities:
+    - Reduced days sales outstanding by 0.9 days, an equivalent of $4.4 million collected every year
+    - Increased productivity by 12% for credit control team using machine learning
+    - Forecasted footware sales with 95% overall accuaracy using ARIMA
+    - Created an algorithm to assign customer payments to open invoices
+    - Did a causal inference project understanding the relationship between temperature and sales using linear regressions

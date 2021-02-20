@@ -1,0 +1,18 @@
+# some information about you
+name: "Abhishek Baral"
+nickname: "Abhishek!"
+# greeting message before your name. it will default to "Hi! I am" if not provided
+greeting: "Hi, I am"
+image: "images/author/inu.png"
+# give your some contact information. they will be used in the footer
+contactInfo:
+  email: "abhishek.baral@hotmail.com"
+
+# some summary about what you do
+summary:
+  - I am a Data Scientist
+  - I solve problems
+  - I love to work on some fun projects
+  - I am a data enthusiast 
+  - I am a life long learner
+  - I love dogs

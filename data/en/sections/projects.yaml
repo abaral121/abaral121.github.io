@@ -1,0 +1,79 @@
+# section information
+section:
+  name: Projects
+  id: projects
+  enable: true
+  weight: 5
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true
+
+# filter buttons
+buttons:
+- name: All
+  filter: "all"
+- name: Academic
+  filter: "academic"
+- name: Hobby
+  filter: "hobby"
+
+# your projects
+projects:
+- name: Pytorch
+  logo: /images/sections/projects/pytorch.png
+  role: Developer
+  #timeline: "March 2018 - Present"
+  repo: https://github.com/abaral121/solar-panel-classification # If your project is a public repo on GitHub, then provide this link. it will show star count.
+  #url: ""  # If your project is not a public repo but it has a website or any external details url then provide it here. don't provide "repo" and "url" simultaneously.
+  summary: Created CNN to detect images containing solar panels
+  tags: ["hobby", "kubernetes", "cloud"]
+
+- name: Python
+  logo: /images/sections/projects/python.png
+  role: Developer
+  #timeline: "Jun 2018 - Present"
+  repo: https://github.com/abaral121/machine-learning
+  #url: ""
+  summary: Creating machine learning algorithms from scratch
+  tags: ["machine-learning","academic"]
+
+- name: R
+  logo: /images/sections/projects/R.png
+  role: Contributor
+  #timeline: "Oct 2019 - Dec 2019"
+  repo: https://github.com/abaral121/voting-prediction-north-carolina/
+  #url: ""
+  summary: Prediction of likely voters in North Carolina using multilevel hierarchical models
+  tags: ["academic", "fun"]
+
+- name: Python
+  logo: /images/sections/projects/python.png
+  role: Contributor
+  #timeline: "Jun 2019 - Present"
+  repo: https://github.com/abaral121/estimate-of-opioid-impact
+  summary: Estimating the effectiveness of policy interventions designed to limit the over-prescription of opioids 
+  tags: ["academic"]
+
+- name: Google Cloud Platform
+  logo: /images/sections/projects/gcp.png
+  role: Developer
+  #timeline: "Jun 2019 - Present"
+  repo: https://github.com/abaral121/gcp-project
+  summary: Learning to host python programs on GCP
+  tags: ["academic"]
+  
+- name: R
+  logo: /images/sections/projects/R.png
+  role: Developer
+  #timeline: "Jun 2019 - Present"
+  repo: https://github.com/abaral121/horse-betting-analysis
+  summary: Understanding what characteristics make a good race horse as well as predicting a winning horse
+  tags: ["academic"]
+  
+- name: Amazon Web Services 
+  logo: /images/sections/projects/aws.png
+  role: Developer
+  #timeline: "Jun 2019 - Present"
+  repo: https://github.com/abaral121/aws-cloud9-demo
+  summary: Learning to use AWS cloud9 and connect to github
+  tags: ["hobby"]
