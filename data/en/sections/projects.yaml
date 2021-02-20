@@ -59,7 +59,7 @@ projects:
   role: Developer
   #timeline: "Jun 2019 - Present"
   repo: https://github.com/abaral121/gcp-project
-  summary: Continuous Delivery of Flask Application on GCP
+  summary: Continuous delivery of Flask application on GCP
   tags: ["academic"]
   
 - name: R
