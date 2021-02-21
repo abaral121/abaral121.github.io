@@ -11,7 +11,7 @@ section:
 # Your experiences
 experiences:
 - company:
-    name: Duke University .
+    name: Duke University
     url: "https://nicholas.duke.edu/"
     location: Durham, North Carolina 
     # company overview
@@ -28,7 +28,7 @@ experiences:
     - Empowering rural communities 
 
 - company:
-    name: Gaea Global Technologies.
+    name: Gaea Global Technologies
     url: "https://gaeaglobal.com/"
     location: Santa Clara, Califorina
     overview: A consulting firm specializing in supply chain managment
@@ -42,7 +42,7 @@ experiences:
     - created algorithm to determine optimal unit of measure for shelving
 
 - company:
-    name: Coats Group.
+    name: Coats Group
     url: "https://www.coats.com/"
     location: Charlotte, North Carolina 
     overview: The world's largest industrial thread manufacturer 
