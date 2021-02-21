@@ -23,7 +23,7 @@ skills:
 
 - name: Cloud Computing
   logo: "/images/sections/skills/cloud.png"
-  summary: "Currently learning AWS"
+  summary:  "Certifications: <br /> AWS Cloud Practitioner"
   url: "https://aws.amazon.com/"
 
 - name: SQL
