@@ -34,7 +34,7 @@ projects:
   #timeline: "Jun 2018 - Present"
   repo: https://github.com/abaral121/machine-learning
   #url: ""
-  summary: Creating machine learning algorithms from scratch
+  summary: Created machine learning algorithms from scratch
   tags: ["machine-learning","academic"]
 
 - name: R
@@ -51,7 +51,7 @@ projects:
   role: Contributor
   #timeline: "Jun 2019 - Present"
   repo: https://github.com/abaral121/estimate-of-opioid-impact
-  summary: Estimating the effectiveness of policy interventions designed to limit the over-prescription of opioids 
+  summary: Estimated the effectiveness of policy interventions designed to limit the over-prescription of opioids 
   tags: ["academic"]
 
 - name: Google Cloud Platform
@@ -75,5 +75,5 @@ projects:
   role: Developer
   #timeline: "Jun 2019 - Present"
   repo: https://github.com/abaral121/aws-cloud9-demo
-  summary: Using AWS Cloud9 to connect to github
+  summary: Used AWS Cloud9 to connect to github
   tags: ["hobby"]

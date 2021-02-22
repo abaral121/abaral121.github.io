@@ -23,7 +23,7 @@ experiences:
     # end: Dec 2020
     # give some points about what was your responsibilities at the company.
     responsibilities:
-    - Assisted with Bayesian modelling
+    - Assisted with Bayesian hierarchical modelling
     - Developing novel prototype ABM
     - Empowering rural communities 
 
@@ -37,9 +37,9 @@ experiences:
     start: May 2020
     end: Aug 2020
     responsibilities:
-    - created data science product to reduce picking costs
-    - used ARIMA and ETS to forecast customers sales
-    - created algorithm to determine optimal unit of measure for shelving
+    - Created data science product to reduce picking costs
+    - Used ARIMA and ETS to forecast customers sales
+    - Created algorithm to determine optimal unit of measure for shelving
 
 - company:
     name: Coats Group
@@ -55,4 +55,4 @@ experiences:
     - Increased productivity by 12% for credit control team using machine learning
     - Forecasted footware sales with 95% overall accuaracy using ARIMA
     - Created an algorithm to assign customer payments to open invoices
-    - Did a causal inference project understanding the relationship between temperature and sales using linear regressions
+    - Delivered a causal inference analysis to understand the relationship between temperature and sales using liner regression
