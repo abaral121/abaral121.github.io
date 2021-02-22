@@ -43,7 +43,7 @@ skills:
 
 - name: Bayesian Models
   logo: "/images/sections/skills/bayes.png"
-  summary: "Experience in Bayesian modeling"
+  summary: "Experienced in Bayesian modeling"
   url: "https://github.com/paul-buerkner/brms"
 
 - name: Machine Learning 
