@@ -116,7 +116,7 @@ projects:
   
 - name: R
   logo: /images/sections/projects/R.png
-  role: Developer
+  role: Contributor
   #timeline: "March 2018 - Present"
   repo: https://github.com/abaral121/tweet-analysis
   summary: Performed sentiment analysis on tweets during covid
