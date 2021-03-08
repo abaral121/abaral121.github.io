@@ -108,7 +108,7 @@ projects:
   
 - name: R
   logo: /images/sections/projects/R.png
-  role: Developer
+  role: Contributor
   #timeline: "March 2018 - Present"
   repo: https://github.com/abaral121/bioassay-analysis
   summary: Used hierarchical model to understand effects of agonist, EE, and antagonist, ZM, on uterine weight
