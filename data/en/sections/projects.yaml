@@ -121,3 +121,19 @@ projects:
   repo: https://github.com/abaral121/tweet-analysis
   summary: Performed sentiment analysis on tweets during covid
   tags: ["other"]
+  
+- name: Amazon Web Services 
+  logo: /images/sections/projects/aws.png
+  role: Developer
+  #timeline: "Jun 2019 - Present"
+  repo: https://github.com/abaral121/aws-serverless
+  summary: Used lambda functions to create end to end serverless sentiment analysis
+  tags: ["cloud"]
+  
+- name: Google Cloud Platform
+  logo: /images/sections/projects/gcp.png
+  role: Developer
+  #timeline: "Jun 2019 - Present"
+  repo: https://github.com/abaral121/Distributed-Image-Processing-in-Cloud-Dataproc
+  summary: Using spark to run multiple jobs
+  tags: ["cloud"]
