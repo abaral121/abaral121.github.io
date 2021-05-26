@@ -22,7 +22,11 @@ experiences:
     start: June 2021
     # don't provide end date if you are currently working there. It will be replaced by "Present"
     # end: Dec 2020
-    # responsibilities:
+    responsibilities:
+    - Developing models and algorithms to solve key problems such as pricing optimization, vehicle identification, travel time estimation, and maintenance optimization, based on machine learning, statistics, and optimization
+    - Analyzing and improving data sources and developing and improving metrics for Cavnue customers and internal use
+    - Proposing and guiding data analytics throughout the organization to drive business insights and facilitate decisions
+    - Establishing standard methodologies and best practices for all internal and external data analytics
 
 - company:
     name: Duke University
