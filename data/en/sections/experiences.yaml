@@ -10,6 +10,20 @@ section:
 
 # Your experiences
 experiences:
+
+- company:
+    name: Cavnue
+    url: "https://cavnue.com/"
+    location: Detroit, Michigan
+    # company overview
+    overview: A google company that combines technology and road infrastructure to unlock the full potential of connected and autonomous vehicles
+  positions:
+  - designation: Data Scientist
+    start: June 2021
+    # don't provide end date if you are currently working there. It will be replaced by "Present"
+    # end: Dec 2020
+    # responsibilities:
+
 - company:
     name: Duke University
     url: "https://nicholas.duke.edu/"
@@ -19,9 +33,7 @@ experiences:
   positions:
   - designation: Research Assistant
     start: Aug 2020
-    # don't provide end date if you are currently working there. It will be replaced by "Present"
-    # end: Dec 2020
-    # give some points about what was your responsibilities at the company.
+    end: May 2021
     responsibilities:
     - Assisted with Bayesian hierarchical modelling
     - Developing novel prototype ABM
