@@ -137,3 +137,11 @@ projects:
   repo: https://github.com/abaral121/Distributed-Image-Processing-in-Cloud-Dataproc
   summary: Using spark to run multiple jobs
   tags: ["cloud"]
+  
+  - name: Agent based modeling
+  logo: /images/sections/projects/python.png
+  role: Developer
+  #timeline: "Jun 2019 - Present"
+  repo: https://github.com/abaral121/ant-agent-based-model
+  summary: Using mesa to create agent based models
+  tags: ["Simulation"]

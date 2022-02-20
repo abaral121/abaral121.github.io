@@ -18,16 +18,15 @@ experiences:
     # company overview
     overview: A google company that combines technology and road infrastructure to unlock the full potential of connected and autonomous vehicles
   positions:
-  - designation: Data Scientist
+  - designation: Data Scientist-ML/AI & Simulation
     start: June 2021
     # don't provide end date if you are currently working there. It will be replaced by "Present"
     # end: Dec 2020
     responsibilities:
-    - Developing models and algorithms to solve key problems such as pricing optimization, vehicle identification, travel time estimation, and maintenance optimization, based on machine learning, statistics, and optimization
-    - Analyzing and improving data sources and developing and improving metrics for Cavnue customers and internal use
-    - Proposing and guiding data analytics throughout the organization to drive business insights and facilitate decisions
-    - Establishing standard methodologies and best practices for all internal and external data analytics
-
+    - Create simulations of driver behaviors
+    - Developing proprietary technologies and methods to assist autonomous vehicles
+    - Changing the transportation and mobility industry 
+    
 - company:
     name: Duke University
     url: "https://nicholas.duke.edu/"
@@ -39,8 +38,8 @@ experiences:
     start: Aug 2020
     end: May 2021
     responsibilities:
+    - Developing novel prototype agent based model 
     - Assisted with Bayesian hierarchical modelling
-    - Developing novel prototype ABM
     - Empowering rural communities 
 
 - company:

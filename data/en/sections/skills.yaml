@@ -18,12 +18,12 @@ skills:
 
 - name: Python
   logo: "/images/sections/skills/python.png"
-  summary: "Competent with libraries such as pandas, sklearn, and statsmodels"
+  summary: "Competent with libraries such as pandas, sklearn, and statsmodels as well as writing production level code"
   url: "https://www.python.org/"
 
 - name: Cloud Computing
   logo: "/images/sections/skills/cloud.png"
-  summary:  "Certifications: <br /> AWS Cloud Practitioner"
+  summary:  "Certifications: <br /> AWS Cloud Practitioner  <br /> Experienced with GCP"
   url: "https://aws.amazon.com/"
 
 - name: SQL
@@ -50,7 +50,7 @@ skills:
   logo: "/images/sections/skills/ml.png"
   summary: "Capable in using common libraries such as sklearn and tidymodels"
   
-- name: Causal Inference
-  logo: "/images/sections/skills/dag.png"
-  summary: "Currently learning about A/B testing, experimentation design, and analysis"
-  url: "https://www.unifyingdatascience.org/html/index.html"
+- name: Simulation
+  logo: "/images/sections/skills/sim.png"
+  summary: "Experienced with recreating naturalistic behaviors"
+  url: "https://mesa.readthedocs.io/en/latest/#:~:text=Mesa%20is%20an%20Apache2%20licensed,or%20ABM)%20framework%20in%20Python.&text=Its%20goal%20is%20to%20be,analyzed%20in%20a%20Jupyter%20notebook."
