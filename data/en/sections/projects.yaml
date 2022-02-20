@@ -140,7 +140,7 @@ projects:
   summary: Using spark to run multiple jobs
   tags: ["cloud"]
   
-  - name: Agent based modeling
+- name: Agent based modeling
   logo: /images/sections/projects/python.png
   role: Developer
   #timeline: "Jun 2019 - Present"
