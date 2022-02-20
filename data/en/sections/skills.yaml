@@ -27,7 +27,7 @@ skills:
   url: "https://aws.amazon.com/"
 
 - name: Software Engineering
-  logo: "/images/sections/skills/terminal.jpg"
+  logo: "/images/sections/skills/terminal.png"
   summary: "Able to write production level code for systems"
   # url: "https://www.mysql.com/"
   
