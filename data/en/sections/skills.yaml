@@ -27,13 +27,13 @@ skills:
   url: "https://aws.amazon.com/"
 
 - name: Software Engineering
-  logo: "/images/sections/skills/terminal.png"
+  logo: "/images/sections/skills/terminal2.png"
   summary: "Able to write production level code for systems"
   # url: "https://www.mysql.com/"
   
 - name: Git
   logo: "/images/sections/skills/git.png"
-  summary: "Experienced with git-based development in team based envionrments." 
+  summary: "Experienced with git-based development in team environments" 
   url: "https://git-scm.com/"
 
 - name: Forecasting
@@ -48,7 +48,7 @@ skills:
 
 - name: Machine Learning 
   logo: "/images/sections/skills/ml.png"
-  summary: "Capable in using common libraries such as sklearn and tidymodels"
+  summary: "Capable in using common libraries such as sklearn, pytorch, and tidymodels"
   
 - name: Simulation
   logo: "/images/sections/skills/sim.png"
